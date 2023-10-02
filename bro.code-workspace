@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../bro"
+		},
+		{
+			"path": "../../na_takashiurakami_q1ngfa2-main/na_takashiurakami_q1ngfa2-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "na_takashiurakami_q1ngfa2-main"
+	}
+}
